@@ -1,3 +1,3 @@
 # Repositorio
 Mi primer repositorio.
-![github] (imagenes/github.png)
+![github](imagenes/github.png)
